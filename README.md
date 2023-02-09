@@ -17,10 +17,10 @@ Run tests with `npm run test`
 
 - Fast development setup with [Vite](https://github.com/vitejs/vite)
 - Styling with [Tailwind CSS](https://tailwindcss.com/)
-- Unit testing with [Vitest](https://github.com/vit-vit/vitest)
+- Unit testing with [Vitest](https://vitest.dev/)
 - Icons provided by [React Icons](https://github.com/react-icons/react-icons)
 
 ## Future plans
 
 - Use a real weather API to get updated weather data.
-  - Challenge: finding a way to retrieve city name from the API for accurate weather data.
+  - Challenge: finding a way to retrieve city names from an API for autocompletion feature.
